@@ -1,1 +1,15 @@
 external file added
+
+    <div class="container my-5 p-5">
+        <p class="text-mute">mute</p>
+        <p class="text-white text-white-50 bg-danger p-5">primary text</p>
+        <p class="text-info">info-text</p>
+        <p class="text-success">success</p>
+        <p class="text-danger">danger</p>
+        <p class="text-warning">warning</p>
+        <p class="text-secondary">secondary</p>
+        <p class="text-white">white</p>
+        <p class="text-dark">dark</p>
+        <p class="text-grey">grey</p>
+        <p class="text-body">body</p>
+    </div>
